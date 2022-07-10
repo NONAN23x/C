@@ -1,3 +1,8 @@
+//linearSearch.c
+/*
+This algorithm takes a hardcoded value as a target, performs a linear search for it in the given array, and prints found if its found, and not found if otherwise.
+*/
+
 #include <stdio.h>
 
 int linearSearch(int target, int n, int array[])
