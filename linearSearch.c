@@ -14,11 +14,6 @@ int linearSearch(int target, int n, int array[])
             return 0;
             break;
         }
-        else
-        {
-            return 1;
-            break;
-        }
     }
 
 }
